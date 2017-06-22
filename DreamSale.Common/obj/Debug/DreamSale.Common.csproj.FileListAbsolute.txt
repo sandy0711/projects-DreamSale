@@ -1,0 +1,5 @@
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Common\bin\Debug\DreamSale.Common.dll
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Common\bin\Debug\DreamSale.Common.pdb
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Common\obj\Debug\DreamSale.Common.dll
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Common\obj\Debug\DreamSale.Common.pdb
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Common\obj\Debug\DreamSale.Common.csprojResolveAssemblyReference.cache

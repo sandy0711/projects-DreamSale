@@ -1,0 +1,14 @@
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Core\bin\Debug\DreamSale.Core.dll
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Core\bin\Debug\DreamSale.Core.pdb
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Core\bin\Debug\RedLock.StrongName.dll
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Core\bin\Debug\StackExchange.Redis.dll
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Core\bin\Debug\StackExchange.Redis.StrongName.dll
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Core\bin\Debug\StackExchange.Redis.xml
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Core\bin\Debug\StackExchange.Redis.StrongName.xml
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Core\obj\Debug\DreamSale.Core.csprojResolveAssemblyReference.cache
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Core\obj\Debug\DreamSale.Core.dll
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Core\obj\Debug\DreamSale.Core.pdb
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Core\bin\Debug\DreamSale.Common.dll
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Core\bin\Debug\DreamSale.Common.pdb

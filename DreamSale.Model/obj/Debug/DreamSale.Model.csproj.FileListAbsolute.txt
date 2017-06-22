@@ -1,0 +1,9 @@
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Model\bin\Debug\DreamSale.Model.dll
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Model\bin\Debug\DreamSale.Model.pdb
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Model\obj\Debug\DreamSale.Model.dll
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Model\obj\Debug\DreamSale.Model.pdb
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Model\obj\Debug\DreamSale.Model.csprojResolveAssemblyReference.cache
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Model\bin\Debug\DreamSale.Common.dll
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Model\bin\Debug\DreamSale.Core.dll
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Model\bin\Debug\DreamSale.Common.pdb
+C:\Users\sandeepd492\Downloads\Shopping Cart\DreamSale\DreamSale.Model\bin\Debug\DreamSale.Core.pdb
